@@ -1,6 +1,6 @@
 # easy-replace.nvim
 
-Quickly ind and replace without having to worry about `%s` and escaping characters.
+Quickly find and replace without having to worry about `%s` and escaping characters.
 
 
 ## Installation
